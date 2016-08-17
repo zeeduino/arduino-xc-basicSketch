@@ -45,6 +45,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/zeeduino-xc-hal-lpc13xx/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/zeeduino-xc-core/inc}&quot;"/>
 								</option>
+								<option id="com.crt.advproject.cpp.misc.dialect.1689225333" superClass="com.crt.advproject.cpp.misc.dialect" value="com.crt.advproject.misc.dialect.cpp0x" valueType="enumerated"/>
 								<inputType id="com.crt.advproject.compiler.cpp.input.324677156" superClass="com.crt.advproject.compiler.cpp.input"/>
 							</tool>
 							<tool id="com.crt.advproject.gcc.exe.debug.1483110986" name="MCU C Compiler" superClass="com.crt.advproject.gcc.exe.debug">
@@ -72,6 +73,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/zeeduino-xc-hal-lpc13xx/inc}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/zeeduino-xc-core/inc}&quot;"/>
 								</option>
+								<option id="com.crt.advproject.c.misc.dialect.2053309074" superClass="com.crt.advproject.c.misc.dialect" value="com.crt.advproject.misc.dialect.c11" valueType="enumerated"/>
 								<inputType id="com.crt.advproject.compiler.input.886875103" superClass="com.crt.advproject.compiler.input"/>
 							</tool>
 							<tool id="com.crt.advproject.gas.exe.debug.356877131" name="MCU Assembler" superClass="com.crt.advproject.gas.exe.debug">
